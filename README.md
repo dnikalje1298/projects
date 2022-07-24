@@ -1,6 +1,6 @@
 # Projects
 
-1. E-Commerce website for Furniture using Reactjs, React Router V6
+1. E-Commerce website for Furniture using Reactjs, React Router V6. Deployed using Heroku.
    https://furnifrontend.herokuapp.com/
 
 
