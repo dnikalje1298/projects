@@ -1,6 +1,6 @@
 # Projects
 
-1. E-Commerce website for Furniture. Deployed using Heroku.
+1. E-Commerce website for ordering Furniture. Deployed using Heroku.
    Developed frontend using Reactjs, React Router V6.
    Used Postgresql and Nodejs for backend.
 
