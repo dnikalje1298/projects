@@ -2,7 +2,7 @@
 
 1. E-Commerce website for ordering Furniture. Deployed using Heroku.
    Developed frontend using Reactjs, React Router V6.
-   Used Postgresql and Nodejs for backend.
+   Used Postgresql, Express and Nodejs for backend.
 
    https://furnifrontend.herokuapp.com/
    
