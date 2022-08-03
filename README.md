@@ -6,7 +6,8 @@
 
    https://furnifrontend.herokuapp.com/
    
-   ![image](https://user-images.githubusercontent.com/62004460/182025779-c22967de-e1bd-4ddd-a420-98df3f884e4b.png)
+   ![image](https://user-images.githubusercontent.com/62004460/182639233-eced78a4-dbc2-401f-9c45-fe8f036a6b4d.png)
+
 
 
 
